@@ -25,4 +25,4 @@ Welcome to the **Hospital Appointment System**! This project is designed to simp
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/fathallah7/Hospital-Appointment-System.git
