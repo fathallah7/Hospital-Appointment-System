@@ -37,7 +37,7 @@
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
 <h1 style="text-align: center; color: rgb(46, 110, 150); margin-top:40px;">ADMIN PAGE</h1>
-<img src="back.webp" alt="logo" width="200px" >
+<img src="assest/back.webp" alt="logo" width="200px" >
 </div>
 
 
